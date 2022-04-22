@@ -14,6 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on a startup name "Castcle".
 - 🌱 I’m currently learning Blockchain and Smart contract, web3.
 - 👯 I’m looking to collaborate on any opensource projects on public blockchains like Ethereum, NEAR.
