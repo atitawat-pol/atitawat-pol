@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning Blockchain and Smart contract, web3.
-- 👯 I’m looking to collaborate on any opensource projects on public blockchains like Ethereum L1, L2.
+- 💬 Ask me about Trading
